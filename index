@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="ro">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Proiect API Scopus</title>
+  </head>
+  <body>
+    <h1>Proiect API Scopus</h1>
+    <p>Acesta este un site demonstrativ pentru accesarea datelor despre autori folosind API-ul Scopus.</p>
+  </body>
+</html>
